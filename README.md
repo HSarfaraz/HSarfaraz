@@ -3,10 +3,10 @@
 
 #### A Software Engineer that works as **React Developer** at **[Tech Mahindra](https://techmahindra.com/)**
 
-- ❤️ Would like to work who can make difference to the world
+- ❤️ Would like to work with people who can make a difference in the world.
 - 😎 Open to full time opportunities if the project sounds cool.
 - 🏢 Previously a Senior Software Engineer at **Publicis Sapient**
-- ⚙️ Love workin with:  `.jsx`,`.js`, `.ts`, `.html`, `.scss`, `.json`
+- ⚙️ Love working with:  `.jsx`,`.js`, `.ts`, `.html`, `.scss`, `.json`
 - 🌍 I support and volunteer with: **Art of living**
 - 🌱 Learning more about and studying: **Open Source, React, Javascript**
 - 💬 Ping me about: **mentorship**, **coding**
