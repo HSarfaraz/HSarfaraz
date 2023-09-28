@@ -20,7 +20,12 @@
     - [CRUD app]() - Created CRUD app
 
 ### ⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt
-<br><img alt="React" title="React" src="react.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="JavaScript" title="JavaScript" src="js.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt=" title=" title="Node.js" src="node.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="TypeScript" title="TypeScript" src="ts.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="CSS" title="CSS" src="css.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="HTML" title="HTML" src="html.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="VS Code" title="VS Code" src="vscode.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Git" title="Git" src="git.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Google Chrome" title="Google Chrome" src="chrome.png" height="24"><br>
+&nbsp;<img alt="React" title="React" src="react.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="JavaScript" title="JavaScript" src="js.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt=" title=" title="Node.js" src="node.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="TypeScript" title="TypeScript" src="ts.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Git" title="Git" src="git.png" height="24"><br><br>
+
+#### Other Skills
+&nbsp;<img alt="Agile" title="Agile" src="agile.png" height="84">
+&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Commincation" title="Commincation" src="communication.png" height="94">
+&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Problem Solving" title="Problem Solving" src="problem-solving.png" height="84">
 
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/hsarfaraz/">LinkedIn</a>
