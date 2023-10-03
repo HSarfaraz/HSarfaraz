@@ -1,6 +1,11 @@
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500" />
+</div>
+
 ### Hi Friend, I'm Sarfaraz 👋
 ---
-
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
 #### A Software Engineer that works as **React Developer** at **[Tech Mahindra](https://techmahindra.com/)**
 
 - ❤️ Would like to work with people who can make a difference in the world.
@@ -16,8 +21,8 @@
 
 ### Side Projects
 
-    - [Ecommerce]() - Created Ecomerce Project
-    - [CRUD app]() - Created CRUD app
+- [Ecommerce]() - Created Ecomerce Project
+- [CRUD app]() - Created CRUD app
 
 ### ⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt
 &nbsp;<img alt="React" title="React" src="react.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="JavaScript" title="JavaScript" src="js.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt=" title=" title="Node.js" src="node.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="TypeScript" title="TypeScript" src="ts.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Git" title="Git" src="git.png" height="24"><br><br>
