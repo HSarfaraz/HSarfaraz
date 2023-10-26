@@ -1,10 +1,11 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500" />
-</div>
 
-### Hi Friend, I'm Sarfaraz 👋
----
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Sarfaraz%20Git&fontAlign=75&fontAlignY=40&color=gradient" height="300"/>
+  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi Friend, I'm Sarfaraz 👋</h1>
+</div>
+  
 ![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
 #### A Software Engineer that works as **React Developer** at **[Tech Mahindra](https://techmahindra.com/)**
 
